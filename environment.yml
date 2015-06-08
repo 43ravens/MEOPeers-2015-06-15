@@ -1,0 +1,17 @@
+name: meopeers-hg
+dependencies:
+- openssl=1.0.1k=1
+- pip=7.0.3=py34_0
+- python=3.4.3=0
+- pyyaml=3.11=py34_0
+- readline=6.2=2
+- setuptools=17.0=py34_0
+- sqlite=3.8.4.1=1
+- tk=8.5.18=0
+- xz=5.0.5=0
+- yaml=0.1.4=1
+- zlib=1.2.8=0
+- pip:
+  - commonmark==0.5.4
+  - pandocfilters==1.2.4
+
