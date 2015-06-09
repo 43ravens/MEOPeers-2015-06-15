@@ -5,8 +5,6 @@ MEOPeers Version Control Workshop 15-Jun-2015
 ToDo
 ====
 
-* Add link to rendered workshop materials to README.rst
-
 
 Schedule
 ========

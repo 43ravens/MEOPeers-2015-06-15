@@ -4,10 +4,14 @@ MEOPAR 2015 ASM Version Control Workshop
 
 This repo contains teaching content for the MEOPeers Version Control Workshop held on 15-Jun-2015 as part of the MEOPAR 2015 Annual Scientific Meeting in Vancouver.
 
+The content is rendered at http://douglatornell.ca/training/meopeers-2015-06-15/.
+
 Some of the instructional material in this repo is based on the `Software Carpentry Foundation`_ lesson that introduces `Version Control with Mercurial`_.
+The design of the web pages is also adapted from the `Software Carpentry`_ lessons pages.
 
 .. _Software Carpentry Foundation: http://software-carpentry.org/
 .. _Version Control with Mercurial: http://swcarpentry.github.io/hg-novice/
+.. _Software Carpentry: http://software-carpentry.org/
 
 
 License
