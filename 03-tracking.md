@@ -53,7 +53,7 @@ and then check that the right thing happened:
 $ hg status
 ~~~
 ~~~ {.output}
-A mars.txt
+A plan.txt
 ~~~
 
 Mercurial now knows that it's supposed to keep track of `plan.txt`,
@@ -116,6 +116,6 @@ identifier.
 > ## Where Are My Changes? {.callout}
 >
 > If we run `ls` at this point,
-> we will still see just one file called `mars.txt`.
+> we will still see just one file called `plan.txt`.
 > That's because Mercurial saves information about files' history in the special `.hg` directory mentioned earlier so that our filesystem doesn't become cluttered
 > (and so that we can't accidentally edit or delete an old version).
