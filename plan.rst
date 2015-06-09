@@ -5,6 +5,10 @@ MEOPeers Version Control Workshop 15-Jun-2015
 ToDo
 ====
 
+* Add TortoiseHg workflow to 01-configuration
+* Add TortoiseHg workflow to 02-create-repo
+
+* Add Previous and Next links to section pages
 
 Schedule
 ========
