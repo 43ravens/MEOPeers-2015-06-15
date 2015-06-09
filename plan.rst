@@ -7,6 +7,7 @@ ToDo
 
 * Add TortoiseHg workflow to 01-configuration
 * Add TortoiseHg workflow to 02-create-repo
+* Add TortoiseHg workflow to 03-tracking
 
 * Add Previous and Next links to section pages
 
