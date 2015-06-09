@@ -28,6 +28,13 @@ clean :
 ## preview  : Build website locally for checking.
 preview : $(DST_ALL)
 
+## rsync    : rsync built site and assets to web server
+rsync : rsync -av \
+	README.rst \
+	css \
+	*.html \
+	douglatornell.ca:webapps/djl_static/training/meopeers-2015-06-15/
+
 ## settings : Show variables and settings.
 settings :
 	@echo 'SRC_MD:' $(SRC_MD)
