@@ -29,7 +29,8 @@ clean :
 preview : $(DST_ALL)
 
 ## rsync    : rsync built site and assets to web server
-rsync : rsync -av \
+rsync :
+	rsync -av \
 	README.rst \
 	css \
 	*.html \
