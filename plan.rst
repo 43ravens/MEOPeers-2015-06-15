@@ -11,6 +11,7 @@ ToDo
 * Add TortoiseHg workflow to 04-changes
 * Add TortoiseHg workflow to 05-history
 * Add TortoiseHg workflow to 06-revert
+* Add TortoiseHg workflow to 07-ignore
 
 * Add Previous and Next links to section pages
 
