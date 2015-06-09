@@ -71,3 +71,9 @@ but the workflow that they encourage.
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) (also known as "The Red-bean Book")
 * [Topics Reference Guide](reference.html)
 * [Mercurial Command Reminders](commands.html)
+
+
+Some of the instructional material in this workshop is based on the [Software Carpentry Foundation][swc] lesson that introduces [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/).
+The design of the web pages is also adapted from the [Software Carpentry][swc] lessons pages.
+
+[swc]: http://software-carpentry.org/
