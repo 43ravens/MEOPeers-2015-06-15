@@ -79,6 +79,9 @@ Schedule
   * hg push
   * hg clone
   * hg pull
+
+* Moving Work Among Repo Clones
+
   * hg update
   * hg pull --update
 

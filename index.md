@@ -59,9 +59,10 @@ but the workflow that they encourage.
 
 ### Reaching Out
 8. [Remote Repositories](08-remote-repos.html)
-9. [Collaboration](09-collaboration.html)
-10. [Merges and Conflicts](10-merge-conflict.html)
-11. [Working with Non-Text Files](11-non-text.html)
+9. [Working with Clone Repositories](09-repo-clones.html)
+10. [Collaboration](10-collaboration.html)
+11. [Merges and Conflicts](11-merge-conflict.html)
+12. [Working with Non-Text Files](12-non-text.html)
 
 
 ## Other Resources
