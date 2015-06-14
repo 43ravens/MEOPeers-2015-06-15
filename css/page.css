@@ -1,3 +1,4 @@
+/* Main body of pages. */
 body {
     font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
     color: rgb(03, 03, 03);
@@ -104,4 +105,27 @@ pre.output {
 }
 pre.error {
     color: Red;
+}
+
+/* Images
+ *
+ * Rules from http://getbootstrap.com/css/#images-responsive.
+ *
+ * This is compatible with Pandoc behavior for HTML and HTML5. */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.figure,
+figure {
+    text-align: center;
+}
+
+p.caption::before,
+figcaption::before {
+    content: "Figure: ";
 }
