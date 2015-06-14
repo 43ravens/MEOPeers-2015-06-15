@@ -21,7 +21,7 @@ Version control is better than emailing files back and forth because:
     or what version of a program was used to generate a particular set of results.
 *   It keeps a record of who made what changes when,
     so that if people have questions later on they know who to ask.
-*   It's hard (but not impossible) to accidentally overlook or overwrite someone's changes:
+*   With version control it is hard (but not impossible) to accidentally overlook or overwrite someone's changes:
     the version control system automatically notifies users whenever there's a conflict between one person's work and another's.
 
 This workshop shows how to use a popular open source version control system called [Mercurial][mercurial] (also known as `hg`).
@@ -66,7 +66,7 @@ but the workflow that they encourage.
 
 ## Other Resources
 
-* [Intro to Version Control Slidedeck](intro-slides.html)
+* [An Intro to Version Control Slidedeck](intro-slides.html)
 * [Mercurial Web Site](https://mercurial.selenic.com/)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) (also known as "The Red-bean Book")
 * [Topics Reference Guide](reference.html)

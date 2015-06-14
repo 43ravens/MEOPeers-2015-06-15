@@ -19,7 +19,7 @@ Install Mercurial and KDiff3 by downloading and running the [TortoiseHg][tortois
 **Optional:** If you want to use a more Unix-like command-line shell,
 install Git for Windows,
 which includes a Bash emulator,
-by download and running [the installer](https://msysgit.github.io/).
+by downloading and running [the installer](https://msysgit.github.io/).
 
 
 ## Mac OS X
@@ -34,12 +34,11 @@ you can download and run the [TortoiseHg][tortoisehg] installer.
 
 ## Linux
 
-If Mercurial is not already available on your machine you should be able to install it via your distro's package manager
-(e.g. `apt-get` or `yum`).
+If Mercurial is not already available on your machine you should be able to install it via your system package manager.
 Also, please install the [KDiff3][kdiff3] diff and merge tool.
 It should also be available via your package manager.
 
 **Optional:** The version of Mercurial above is for the command-line (Terminal).
 If you want to try a mouse and windows graphical user interface (GUI),
 you can install [TortoiseHg][tortoisehg].
-Please see the downloads page for instructions for your distro.
+Please see the downloads page there for instructions for your flavour of Linux.

@@ -15,6 +15,12 @@ In what follows it is assumed that `nano` is used.
 $ nano plan.txt
 ~~~
 
+and type into that file:
+
+~~~ {.output}
+Goal: Run NEMO everyday to forecast storm surge water levels
+~~~
+
 `plan.txt` has now been created and it contains a single line:
 
 ~~~ {.bash}

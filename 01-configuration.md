@@ -89,4 +89,5 @@ ui.username=Doug Latornell <djl@douglatornell.ca>
 
 When you saved the file stored in your home directory as `.hgrc` on OS X and Linux or as `Mercurial.ini` on Windows.
 The fact that these settings are in the Mercurial configuration file in our home directory means that they will be used for every Mercurial repository on this machine.
-This bit of setup only needs to be done once.
+
+The above configuration work only needs to be done once per machine.

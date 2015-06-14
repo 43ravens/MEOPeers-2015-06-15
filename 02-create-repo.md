@@ -8,7 +8,7 @@ subtitle: Creating a Repository
 > * Explain how to initialize a new Mercurial repository.
 
 We'll start by exploring how version control can be used to keep track of what one person did and when.
-We're going to pretend to be a researcher named Susan who want to start running the Salish Sea NEMO ocean model as a daily forecast system.
+We're going to pretend to be a researcher named Susan who wants to start running the Salish Sea NEMO ocean model as a daily forecast system.
 If the example in the next few sections seems contrived,
 be assured that it is only slightly so to avoid having to do too much typing.
 Lots of projects
