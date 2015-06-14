@@ -13,6 +13,10 @@ ToDo
 * Add TortoiseHg workflow to 06-revert
 * Add TortoiseHg workflow to 07-ignore
 
+* Add learning objectives to all sections
+* Update reference.md to reflect sections structure and content
+* Add commands.md
+
 * Add Previous and Next links to section pages
 
 Schedule
