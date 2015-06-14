@@ -91,3 +91,7 @@ When you saved the file stored in your home directory as `.hgrc` on OS X and Lin
 The fact that these settings are in the Mercurial configuration file in our home directory means that they will be used for every Mercurial repository on this machine.
 
 The above configuration work only needs to be done once per machine.
+
+> ## Learning Objective {.objectives}
+>
+> * Explain what configuration steps are required once per machine.
