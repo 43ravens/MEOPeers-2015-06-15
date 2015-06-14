@@ -92,6 +92,7 @@ The fact that these settings are in the Mercurial configuration file in our home
 
 The above configuration work only needs to be done once per machine.
 
+
 > ## Learning Objective {.objectives}
 >
 > * Explain what configuration steps are required once per machine.

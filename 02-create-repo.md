@@ -69,6 +69,7 @@ checking files
 0 files, 0 changesets, 0 total revisions
 ~~~
 
+
 > ## Learning Objective {.objectives}
 >
 > * Explain how to initialize a new Mercurial repository.
