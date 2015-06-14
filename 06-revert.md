@@ -81,7 +81,7 @@ revert = revert --no-backup
 ~~~
 to our Mercurial configuration settings.
 That changes the meaning of the `hg revert` command to always be `hg revert --no-backup`.
-A better practice than redefining the meaning of an existing command is to give it a slightly difference alias name,
+A better practice than redefining the meaning of an existing command is to give it a slightly different alias name,
 perhaps `nbrevert` (for "no backup revert").
 
 The fact that files can be reverted one by one tends to change the way people organize their work.

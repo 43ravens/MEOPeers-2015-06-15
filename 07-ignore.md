@@ -62,9 +62,14 @@ $ hg status
 
 The only thing Mercurial notices now is the newly-created `.hgignore` file.
 You might think we wouldn't want to track it,
-but everyone we're sharing our repository with will probably want to ignore
-the same things that we're ignoring.
-Let's add and commit `.hgignore`:
+but which files we're tracking,
+which ones we're not,
+when we made those decisions,
+and why is part of the story of our project's development that will help us understand the project weeks,
+months,
+or years in the future.
+So,
+let's add and commit `.hgignore`:
 
 ~~~ {.bash}
 $ hg add .hgignore
