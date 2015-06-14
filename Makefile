@@ -33,6 +33,7 @@ rsync :
 	rsync -av \
 	README.rst \
 	css \
+	fig \
 	*.html \
 	douglatornell.ca:webapps/djl_static/training/meopeers-2015-06-15/
 
