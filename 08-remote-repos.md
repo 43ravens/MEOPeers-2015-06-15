@@ -9,7 +9,7 @@ subtitle: Remote Repositories
 > * Explain what happens when a remote repository is cloned.
 > * Explain what happens when changes are pushed to or pulled from a remote repository.
 
-By now it should be obvious that version control is a powerful too for organizing our own work on our personal laptop or workstation.
+By now it should be obvious that version control is a powerful tool for organizing our own work on our personal laptop or workstation.
 It helps us keep track of what we did when,
 gives us the ability to go back in time in our preoject's history,
 and can help us recover from mistakes.
@@ -25,9 +25,9 @@ etc.
 While it is possible to move files and metadata between any two repository copies,
 in practice it's easiest to use one copy as a central hub.
 
-The easiest way to set up a copy of a repo as central hub that we can access from anywhere that we have a network connection is to use a hosting service like [Bitbucket](https://bitbucket.org/).
+The easiest way to set up a copy of a repo as a central hub that we can access from anywhere that we have a network connection is to use a hosting service like [Bitbucket](https://bitbucket.org/).
 
-Let's start by putting a copy of our repo where we are planning how to set up the Salish Sea NEMO ocean model as a daily forecast system on Bitbucket.
+Let's start by putting a copy of our Salish Sea forecast planning repo on Bitbucket.
 
 Log in to the Bitbucket site,
 then click on `Create repository` under the `Create` menu at the top of the page:
@@ -43,7 +43,7 @@ Bitbucket displays a page with a URL and some information on how to configure yo
 
 ![Creating a Repository on Bitbucket (Step 3)](fig/bitbucket-create-repo-03.png)
 
-Select `I have and existing project`,
+Select `I have an existing project`,
 and use the commands shown to "push" the files and metadata from your local `forecast` repo to the newly created one on Bitbucket:
 
 ~~~ {.bash}
@@ -114,7 +114,7 @@ Make sure to use the URL with your Bitbucket username in it rather than `susan`
 (the one from the `hg push` command above).
 
 Save the file.
-It will automatically be stored in `planets/.hg/hgrc`.
+It will automatically be stored in `forecast/.hg/hgrc`.
 
 We can check that the command has worked by running `hg paths`:
 
