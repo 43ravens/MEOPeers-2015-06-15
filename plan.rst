@@ -65,12 +65,12 @@ Schedule
 
   * hg revert
   * hg revert -r
+  * config [aliases]
 
 * Ignoring Things
 
   * repo .hgignore file
-  * glob and regexp syntax
-  * user-level .hgignore file
+  * glob syntax
 
 * Working with Remote Repositories
 
@@ -120,3 +120,6 @@ Schedule
   * ssh keys
   * Bitbucket forks and pull requests
   * other ways to share repos; filesystem, ssh, http, hg serve
+  * .hgignore regexp syntax
+  * user-level .hgignore file
+
