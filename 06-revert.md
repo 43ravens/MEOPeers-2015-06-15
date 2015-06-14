@@ -3,6 +3,11 @@ layout: page
 title: Version Control with Mercurial
 subtitle: Recovering Old Versions
 ---
+> ## Learning Objectives {.objectives}
+>
+> * Restore older versions of files.
+> * Use configuration aliases to create custom Mercurial commands.
+
 All right:
 we can save changes to files and see what we've changed --- how can we restore older versions of things?
 Let's suppose we accidentally overwrite Salish Sea NEMO forecast planning file with our grocery list:
@@ -85,3 +90,9 @@ it's hard (but not impossible) to undo changes to the introduction without also 
 If the introduction and conclusion are stored in separate files,
 on the other hand,
 moving backward and forward in time becomes much easier.
+
+
+> ## Learning Objectives {.objectives}
+>
+> * Restore older versions of files.
+> * Use configuration aliases to create custom Mercurial commands.

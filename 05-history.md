@@ -3,6 +3,11 @@ layout: page
 title: Version Control with Mercurial
 subtitle: Exploring History
 ---
+> ## Learning Objectives {.objectives}
+>
+> * Compare files with older versions of themselves.
+> * Display the changes that were made to files in a previous changeset.
+
 If we want to see what we changed when,
 we use `hg diff` again,
 but refer to old versions using the `--rev` or `-r` flag and the revision numbers:
@@ -52,3 +57,9 @@ diff -r 1320339bbcae -r b31241913818 plan.txt
 +
 +Need daily high resolution weather forcing from EC.
 ~~~
+
+
+> ## Learning Objectives {.objectives}
+>
+> * Compare files with older versions of themselves.
+> * Display the changes that were made to files in a previous changeset.

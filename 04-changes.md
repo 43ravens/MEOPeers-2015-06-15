@@ -3,6 +3,11 @@ layout: page
 title: Version Control with Mercurial
 subtitle: Making Changes
 ---
+> ## Learning Objectives {.objectives}
+>
+> * Display the uncommitted changes that have been made to tracked files.
+> * Go through the modify-commit cycle for single and multiple files.
+
 Now suppose Susan adds more notes to the file.
 (Again, we'll edit with `nano` and then `cat` the file to show its contents;
 you may use a different editor, and don't need to `cat`.)
@@ -171,6 +176,12 @@ date:        Tue Jun 09 14:41:27 2015 +0200
 summary:     Starting to plan the daily NEMO forecast system.
 
 ~~~
+
+
+> ## Learning Objectives {.objectives}
+>
+> * Display the uncommitted changes that have been made to tracked files.
+> * Go through the modify-commit cycle for single and multiple files.
 
 
 > ## `bio` Repository {.challenge}

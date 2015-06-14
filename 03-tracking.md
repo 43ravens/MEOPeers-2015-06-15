@@ -3,6 +3,13 @@ layout: page
 title: Version Control with Mercurial
 subtitle: Tracking Changes to Files
 ---
+> ## Learning Objectives {.objectives}
+>
+> * Display the version control status of files in a repository and explain what those statuses mean.
+> * Add files to Mercurial's collection of tracked files.
+> * Record metadata about changes to a file.
+> * Display the history of changes to files in a repository and explain the metadata that is recorded with each changeset.
+
 Let's create a file called `plan.txt` in which Susan is going to write her initial ideas and notes about the Salish Sea NEMO daily forecast system.
 You can use any text editor you want
 (`Notepad`, `TextEdit`, `gedit`, `nano`, `emacs`, `vi`, ...)
@@ -125,3 +132,11 @@ identifier.
 > we will still see just one file called `plan.txt`.
 > That's because Mercurial saves information about files' history in the special `.hg` directory mentioned earlier so that our filesystem doesn't become cluttered
 > (and so that we can't accidentally edit or delete an old version).
+
+
+> ## Learning Objectives {.objectives}
+>
+> * Display the version control status of files in a repository and explain what those statuses mean.
+> * Add files to Mercurial's collection of tracked files.
+> * Record metadata about changes to a file.
+> * Display the history of changes to files in a repository and explain the metadata that is recorded with each changeset.
