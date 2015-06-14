@@ -61,8 +61,11 @@ but the workflow that they encourage.
 8. [Remote Repositories](08-remote-repos.html)
 9. [Working with Clone Repositories](09-repo-clones.html)
 10. [Collaboration](10-collaboration.html)
-11. [Merges and Conflicts](11-merge-conflict.html)
-12. [Working with Non-Text Files](12-non-text.html)
+11. [Merging Changes from Different Clones](11-merges.html)
+12. [Merge Conflicts](12-conflict.html)
+
+### Digging Deeper
+13. [Working with Non-Text Files](13-non-text.html)
 
 
 ## Other Resources
