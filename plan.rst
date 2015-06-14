@@ -83,7 +83,7 @@ Schedule
 * Moving Work Among Repo Clones
 
   * hg update
-  * hg pull --update
+  * hg log --graph
 
 12:30 to 13:10 Lunch
 
@@ -112,6 +112,7 @@ Schedule
 * Advanced Topics
 
   * hg commit --amend
+  * hg pull --update
   * hg forget
   * hg rm
   * hg cp
