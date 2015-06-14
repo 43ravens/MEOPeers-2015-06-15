@@ -21,7 +21,7 @@
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"><metadata
      id="metadata4474"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -293,7 +293,7 @@
          sodipodi:role="line"
          id="tspan5315"
          x="8043.333"
-         y="12092.807">plan.rst</tspan></text>
+         y="12092.807">plan.txt</tspan></text>
 </g><text
      sodipodi:linespacing="125%"
      id="text5339"
@@ -304,7 +304,7 @@
        y="6716.8872"
        x="-9560.1123"
        id="tspan5341"
-       sodipodi:role="line"></tspan></text>
+       sodipodi:role="line" /></text>
 <g
      transform="translate(-1375.6674,-13391.03)"
      id="g5381"><rect
@@ -416,7 +416,7 @@
          y="12092.807"
          x="8043.333"
          id="tspan6245"
-         sodipodi:role="line">plan.rst</tspan></text>
+         sodipodi:role="line">plan.txt</tspan></text>
 </g><g
      class="com.sun.star.drawing.CustomShape"
      id="g4467"
