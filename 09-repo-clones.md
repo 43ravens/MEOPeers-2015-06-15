@@ -5,8 +5,8 @@ subtitle: Working with Clone Repositories
 ---
 > ## Learning Objectives {.objectives}
 >
-> * Explain how to push, pull, and update files and metadata among clones of a repository.
-> * Display a simple visualization of state of a repository and explain how updating the repository affects its state.
+> * Explain how to push, pull, update files, and update metadata among clones of a repository.
+> * Display a simple visualization of the state of a repository and explain how updating the repository affects its state.
 
 We're going to simulate working with a repository on different machines
 (laptop and lab workstation,
@@ -32,7 +32,7 @@ $ hg clone https://bitbucket.org/susan/forecast
 
 `hg clone` creates a fresh local copy of a remote repository.
 
-Now switch to the `home` directory and clone the `forecast repo from Bitbucket there too:
+Now switch to the `home` directory and clone the `forecast` repo from Bitbucket there too:
 
 ~~~ {.bash}
 $ cd ~/Desktop/home
@@ -139,7 +139,7 @@ $ hg update
 1 files updated, 0 files merged, 0 files removed, 0 files unresolved
 ~~~
 
-You can use `hg log --graph` again to that the `@` has been moved to changeset 3 which tells us that our working copy is up to date.
+You can use `hg log --graph` again to see that the `@` has been moved to changeset 3 which tells us that our working copy is up to date.
 
 Here is what our two local repositories and our Bitbucket repository look like now,
 showing how the `biblio.txt` file has been copied from Bitbucket to our `home` repository clone:

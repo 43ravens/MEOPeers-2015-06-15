@@ -46,7 +46,7 @@ so those changes can't be pushed back to the original repo without the owner's c
 Bitbucket offers other public repo features to facilitate collaboration:
 
 * Per-repository issue trackers for project management and bug reports
-* Per-respository wikis for documentation
+* Per-repository wikis for documentation
 * Email notifications of various events such as pushed commits,
 new issue creation,
 etc.
