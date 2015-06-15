@@ -66,6 +66,7 @@ but the workflow that they encourage.
 
 ### Digging Deeper
 13. [Working with Non-Text Files](13-non-text.html)
+14. [Other Topics](14-other-topic.html)
 
 
 ## Other Resources
