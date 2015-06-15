@@ -71,7 +71,7 @@ but the workflow that they encourage.
 
 ## Other Resources
 
-* [An Intro to Version Control Slidedeck](intro-slides.html)
+* [An Intro to Version Control Slidedeck](intro-slides.pdf)
 * [Mercurial Web Site](https://mercurial.selenic.com/)
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/) (also known as "The Red-bean Book")
 * [Mercurial Command Reminders](commands.html)

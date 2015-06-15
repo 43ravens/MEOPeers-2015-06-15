@@ -35,6 +35,7 @@ rsync :
 	css \
 	fig \
 	*.html \
+	intro-slides.pdf \
 	douglatornell.ca:webapps/djl_static/training/meopeers-2015-06-15/
 
 ## settings : Show variables and settings.
